@@ -1,6 +1,6 @@
 # Portfolio
-My personal Web Development Portfolio
-Would you like to hire me? Message me
+My personal Web Development Portfolio<br>
+Would you like to hire me? Message me: https://twitter.com/realAslanis
 <hr>
 
 Pages I have worked on:
